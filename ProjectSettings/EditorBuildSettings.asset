@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/System/Persistent.unity
+    guid: fa842a61ec08cf649b00a18a29b2c84e
+  - enabled: 1
+    path: Assets/Scenes/GameSystems/MusicSelector/LevelSelector.unity
+    guid: 52b8724f8056e4c43a9ae7768feca7b4
+  - enabled: 1
+    path: Assets/Scenes/Games/Game#1/Game1.unity
+    guid: e3ed8e163ba998042b044002ec6fe68a
+  - enabled: 1
+    path: Assets/Scenes/Games/Game#2/Game2.unity
+    guid: 4fba7637f2b8648509cbbb30029b99c4
+  - enabled: 1
+    path: Assets/Scenes/Games/Game#3/Game3.unity
+    guid: 4bbf176f88fac4cf9802e06195735e13
+  - enabled: 1
+    path: Assets/Scenes/Games/Game#4/Game4.unity
+    guid: c0b9e09a27e60b94f8993ccf14d4b691
+  - enabled: 0
+    path: Assets/Scenes/Models/Models.unity
+    guid: 6a3f06f2445b84dca9135f1fcda582e3
+  - enabled: 0
+    path: Assets/Imported Assets/SineVFX/ForceFieldEffects/Scenes/DemoSceneLWRP.unity
+    guid: dc757ac45ad04e34099c001400e466d8
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fc8d7f5de8cf949239991405127dfd13, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 33f9b641a63c044e6b4d7b08facd111d, type: 2}
