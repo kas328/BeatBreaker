@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cb190806a3b1f1e4a9f152d8713e00a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - noteManager1: {instanceID: 0}
+  - noteManager2: {instanceID: 0}
+  - obstacleManager1: {instanceID: 0}
+  - obstacleManager2: {instanceID: 0}
+  - obstacleManager3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
